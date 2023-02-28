@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(216, 235, 237);
+   
+}
+.div_container{
+    background-color: rgb(240, 238, 238);
+}
+.logo{
+    width: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+h4{
+    position: relative;
+    padding-left: 10%;
+    top: -65px;
+    color: white;
+    /* text-align: center; */
+}
+header{
+    background-color: rgb(26, 92, 192);
+    height: 110px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+table{
+    position: relative;
+    text-align: center;
+    width: 50%;
+    /* right: 10%; */
+    left: 5%;
+    /* border-collapse: collapse; */
+    
+}
+form{
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+    font-size: 14px;
+}
+button{
+    background-color:  rgb(26, 92, 192);
+    color: white;
+    border: none;
+}
+.groupbox{
+    position: relative;
+    text-align: center;
+    padding: 3%;
+    padding-left: 7%;
+    margin-left: 300px;
+    color: aliceblue;
+    align-items: center;
+    left: 30%;
+    border: 2px solid  rgb(109, 155, 225);
+    border-radius: 5px;
+    width: 40%;
+    height: auto;
+    background-color: white;
+}
+.div_h5{
+    position: absolute;
+     background-color: rgb(26, 92, 192);
+     width: 443px;
+     left: 0px;
+     top: 0px;
+     border-radius: 5px 5px 0 0;
+     height: 40px;
+     
+}
+h5{
+    padding-top: 10px;
+     color: white; 
+     text-align: center;
+     
+    
+ 
+}
+
+.icon{
+position: absolute;
+left:50px;
+
+}
+
+button{
+    border-radius: 3px;
+}

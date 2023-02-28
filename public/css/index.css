@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(216, 235, 237);
+}
+.div_container{
+    background-color:white;
+    height: 600px;
+    border-radius: 0 0 5px 5px;
+}
+.logo{
+    width: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+h4{
+    position: relative;
+    padding-left: 10%;
+    top: -65px;
+    color: white;
+    /* text-align: center; */
+}
+header{
+    background-color: rgb(26, 92, 192);
+    height: 110px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+table{
+    
+    position: relative;
+    text-align: center;
+    top: 50px;
+    width: 90%;
+    /* right: 10%; */
+    left: 5%;
+    /* border-collapse: collapse; */
+    background-color: rgb(224, 243, 248);
+    font-size: larger;
+    
+}
+
+td, th{
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    border-right:1px solid #ccc;
+    padding: 10px;
+    height: 30px;
+}
+table{
+    border-collapse:collapse;
+}
+
+
+th{
+    background-color: rgb(26, 92, 192);
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: rgb(216, 235, 237);
+    border-radius: 0px 0px 5px 5px;
+    font-size: 14px;
+}
+button{
+    background-color:  rgb(217, 231, 252);
+    color: white;
+    border: none;
+}
+
+.add{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-left: 90px;
+    margin-top: 90px;
+    font-size: large;
+    font-weight: 300;
+}
+
+.div_nav{
+    background-color: rgb(235, 245, 253);
+}
+
+.groupbox{
+    position: relative;
+    top: 50px;
+    margin-left: 200px;
+    /* text-align: center; */
+    left: 7%;
+    border-radius: 5px;
+    width: 50%;
+    height: 320px;
+    background-color: rgb(217, 236, 251);
+    border-radius: 5px;
+}
+
+.logout {
+    position: relative;
+    background-color: white;
+    float: right;
+    top:80px;
+    right:4px;
+  }
+  .submit{
+    position: relative;
+    left: 60px;
+  }

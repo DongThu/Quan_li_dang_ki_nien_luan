@@ -1,0 +1,90 @@
+/* body{
+    background-color: rgb(216, 235, 237);
+} */
+.div_container{
+    background-color:white;
+    height: 600px;
+}
+.div_nav{
+    background-color: rgb(235, 245, 253);
+}
+.logo{
+    width: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+h4{
+    position: relative;
+    padding-left: 10%;
+    top: -65px;
+    color: white;
+    /* text-align: center; */
+}
+header{
+    background-color: rgb(26, 92, 192);
+    height: 110px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.groupbox{
+    position: relative;
+    top: 50px;
+    margin-left: 200px;
+    /* text-align: center; */
+    left: 7%;
+    border-radius: 5px;
+    width: 50%;
+    height: 320px;
+    background-color: rgb(217, 236, 251);
+    border-radius: 5px;
+}
+table{
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 255px;
+    width: 90%;
+    font-size: larger;
+    text-align: left;
+}
+    
+
+.ttsv{
+    background-color: rgb(26, 92, 192);
+    font-size: larger;
+    color: white;
+    font-weight: 200;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+}
+ td, th{ 
+    /* width: 20%; */
+    border-bottom:1px solid rgb(255, 255, 255);
+    height: 30px;
+}
+
+/* th{ 
+    background-color: rgb(26, 92, 192);
+    color: white;
+}*/
+footer{
+    text-align: center;
+    background-color: rgb(216, 235, 237);
+    border-radius: 0px 0px 5px 5px;
+    font-size: 14px;
+}
+button{
+    background-color:  rgb(217, 231, 252);
+    color: white;
+    border: none;
+}
+
+.add{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-left: 90px;
+    margin-top: 90px;
+    font-size: large;
+    font-weight: 300;
+}
+
